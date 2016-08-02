@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PredictIOPod_Example' do
+  pod 'PredictIOPod', :path => '../'
+
+  target 'PredictIOPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
