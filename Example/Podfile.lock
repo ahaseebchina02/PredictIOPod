@@ -1,0 +1,16 @@
+PODS:
+  - PredictIOPod (0.1.0)
+
+DEPENDENCIES:
+  - PredictIOPod (from `../`)
+
+EXTERNAL SOURCES:
+  PredictIOPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PredictIOPod: 53b8a190670e3c614ee1da47e905a3030bf23840
+
+PODFILE CHECKSUM: b4355fec0d7a39885530c5add2209b8c4cef1751
+
+COCOAPODS: 1.0.0

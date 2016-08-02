@@ -1,0 +1,6 @@
+framework module PredictIOPod {
+  umbrella header "PredictIOPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
